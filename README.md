@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d-celest1al&label=Profile%20views&color=0e75b6&style=flat" alt="d-celest1al" /> </p>
 
-- 🔭 I’m currently working on **GradBond**
+- 🔭 I’m currently working on **GradBond - Alumni Finder Webapp and The Gradbond Mobile App**
 
-- 🌱 I’m currently learning **Django, React, Nodejs**
+- 🌱 I’m currently learning **Django, Dart and Flutter**
 
 - 📫 How to reach me **azmandaiyan10@gmail.com**
 
